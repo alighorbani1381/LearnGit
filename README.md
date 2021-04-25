@@ -1,3 +1,3 @@
 # LearnGit
 
-fixing responsive problem
+fixing responsive problem XXXxXXXxXXXxXXXxXXXxXXXx
