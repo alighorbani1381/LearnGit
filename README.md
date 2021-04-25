@@ -1,4 +1,4 @@
 # LearnGit
 
 
-hello this is a test things here!
+hello this is a test message for you!
