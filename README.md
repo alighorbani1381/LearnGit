@@ -1,4 +1,3 @@
 # LearnGit
 
-
-
+fixing responsive problem
