@@ -1,3 +1,3 @@
 # LearnGit
 
-this is a readme line
+fixing responsive problem
